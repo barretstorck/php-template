@@ -1,2 +1,2 @@
-# php-template
-A template repository for PHP projects
+# PHP Template
+A template repository for PHP projects.
